@@ -10,7 +10,7 @@ public class StephenHawking {
 		// 2. ask the user for a sentence
 
 		// 3. call the speak method below and send it the sentence
-		speak("that's all folks");
+		speak("");
 	}
 
 	/* Don’t change this…. */
